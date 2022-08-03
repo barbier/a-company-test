@@ -1,0 +1,524 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Youtube.com"
+      },
+      "author": null,
+      "title": "Watch live: NASA to conduct historic first all-female spacewalk - Washington Post",
+      "description": "NASA astronauts Christina Koch and Jessica Meir walk outside the International Space Station to replace a damaged battery unit just months after NASA had to ...",
+      "url": "https://www.youtube.com/watch?v=KGRl_-wWMD0",
+      "urlToImage": "https://i.ytimg.com/vi/KGRl_-wWMD0/hqdefault_live.jpg",
+      "publishedAt": "2019-10-18T11:11:55Z",
+      "content": "NASA astronauts Christina Koch and Jessica Meir walk outside the International Space Station to replace a damaged battery unit just months after NASA had to cancel an all-female spacewalk because of a spacesuit-sizing problem. At a media briefing before the s… [+494 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Jon Porter",
+      "title": "Samsung says fingerprint security fix is coming as early as next week - The Verge",
+      "description": "Samsung says that it plans to release a patch for its in-display fingerprint sensors as early as next week. It follows reports that the biometric security method could be compromised by certain screen protectors.",
+      "url": "https://www.theverge.com/2019/10/18/20920522/samsung-galaxy-s10-note-10-fingerprint-recognition-patch-next-week-bug-biometric-security",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/0S8WzgMFefP2HzwqwrSJi35l_0g=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/14843648/akrales_190228_3255_0065.jpg",
+      "publishedAt": "2019-10-18T10:45:43Z",
+      "content": "And advises removing silicone screen protecting cases for now\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nSamsung says that it plans to release a patch for its phones in-display fingerprint sensors as early as next week, after reports emerged that the biome… [+963 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Amelia Lucas",
+      "title": "Coca-Cola stock jumps as strong sales of Coke Zero Sugar continue to drive revenue growth - CNBC",
+      "description": "Coca-Cola on Friday reported quarterly earnings that met analysts' expectations.",
+      "url": "https://www.cnbc.com/2019/10/18/coca-cola-ko-earnings-q3-2019.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105375236-1533317591071rtx6drjw.jpg?v=1571332846",
+      "publishedAt": "2019-10-18T10:42:46Z",
+      "content": "Coca-Cola on Friday reported quarterly revenue that topped analysts' expectations as more customers are drawn in by healthier options, like Zero Sugar soda and smaller size cans. \r\nShares of the company jumped 1.6% in premarket trading.\r\n\"Our performance give… [+1887 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theguardian.com"
+      },
+      "author": "Sid Lowe",
+      "title": "Barcelona v Real Madrid called off following unrest in Catalonia - The Guardian",
+      "description": "Next week’s scheduled match between Barcelona and Real Madrid has been postponed owing to political unrest in Catalunya",
+      "url": "https://www.theguardian.com/football/2019/oct/18/clasico-postponed-barcelona-real-madrid-set-agree-new-date-football",
+      "urlToImage": "https://i.guim.co.uk/img/media/fd89541dd0b2e363666230f024d2e5dceb0dca2a/0_302_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78c6908864e0ef696939fa9ed3f95057",
+      "publishedAt": "2019-10-18T10:34:00Z",
+      "content": "Real Madrid and Barcelona will not meet on 26 October after the first clásico of the Spanish league season was postponed, just eight days before it was due to take place. The two clubs have been given until Monday at 10am to agree a new date or the competitio… [+2906 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Dom Calicchio",
+      "title": "Lady Gaga falls off Las Vegas concert stage - Fox News",
+      "description": "Lady Gaga startled her fans in Las Vegas on Thursday night by taking a tumble off the stage during her performance.",
+      "url": "https://www.foxnews.com/entertainment/lady-gaga-falls-off-las-vegas-concert-stage",
+      "urlToImage": "https://media2.foxnews.com/BrightCove/694940094001/2019/01/21/694940094001_5992005922001_5992004633001-vs.jpg",
+      "publishedAt": "2019-10-18T10:12:13Z",
+      "content": "Lady Gaga startled her fans in Las Vegas on Thursday night by taking a tumble off the stage during her performance, according to videos posted on social media.\r\nThe \"Pokerface\" singer was seen in videos in the arms of a fan she had invited onstage.\r\nLADY GAGA… [+994 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Stefan Becket, Grace Segers and Kathryn Watson",
+      "title": "Mulvaney links Ukraine money delay to DOJ investigation today, then revises statement in latest Trump impeachment inquiry news — live updates - CBS News",
+      "description": "\"I have news for everybody: Get over it. There's going to be political influence in foreign policy,\" Mick Mulvaney said",
+      "url": "https://www.cbsnews.com/live-news/trump-impeachment-inquiry-latest-mulvaney-ukraine-aid-election-2016-2019-10-18/",
+      "urlToImage": "https://cbsnews2.cbsistatic.com/hub/i/r/2019/10/17/66da3e78-fbb1-4cc0-8027-4172a4d7d52f/thumbnail/1200x630g3/6b971c84ba0126be8d95805ce937e9d3/gettyimages-1181671939.jpg",
+      "publishedAt": "2019-10-18T10:05:00Z",
+      "content": "By Stefan Becket, Grace Segers and Kathryn Watson\r\nUpdated on: October 18, 2019 / 6:05 AM\r\n / CBS News\r\nMulvaney says delay in Ukraine aid linked to DOJ investigation\r\nKey facts and latest news\r\n<ul><li>The deposition of Deputy Assistant Secretary of Defense … [+11449 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Katie Shepherd",
+      "title": "‘I earned my spurs on the battlefield’: Mattis jabbed Trump. Critics say he hasn’t gone far enough. - The Washington Post",
+      "description": "Former defense secretary Jim Mattis, who resigned from the position in December, said he was « honored » to be mocked by President Donald Trump as the « most overrated general. »",
+      "url": "https://www.washingtonpost.com/nation/2019/10/18/i-earned-my-spurs-battlefield-mattis-jabbed-trump-critics-say-he-hasnt-gone-far-enough/",
+      "urlToImage": "https://www.washingtonpost.com/resizer/jIprHBJkQpcr2PZmk-6MPNAMwyA=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GBSIJHHRJII6TO362IBG5YGBTE.jpg",
+      "publishedAt": "2019-10-18T09:56:00Z",
+      "content": "For one night at least, on Thursday, Mattis dropped that tendency as he saturated a comedic keynote address with direct jabs at Trump, who earlier this week called his former Cabinet official the worlds most overrated general.\r\nIm honored to be considered tha… [+5235 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Liz Szabo",
+      "title": "A massive marketing muscle pushes 3D mammograms, despite no evidence they save lives, investigation shows - USA TODAY",
+      "description": "An investigation found that millions of marketing dollars have pushed 3D mammograms, leaving many women feeling pressured to undergo screenings",
+      "url": "https://www.usatoday.com/story/news/health/2019/10/18/3-d-mammograms-marketing-makes-women-feel-pressured-do-screenings/3999864002/?utm_source=google&utm_medium=amp&utm_campaign=speakable",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2019/10/16/USAT/a1544b4a-5c85-454d-97e3-79a67ff29dba-3D_Mammography_KHN_illustration.jpg?crop=2399,1349,x0,y238&width=3200&height=1680&fit=bounds",
+      "publishedAt": "2019-10-18T09:50:00Z",
+      "content": "A Kaiser Health News investigation found that manufacturers, hospitals, doctors and some patient advocates have put their marketing muscle behind 3D mammograms.\r\n (Photo: Michelle Kondrich for KHN)\r\nWhen Dr. Worta McCaskill-Stevens made an appointment for a m… [+14687 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bbc.com"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Lebanon scraps WhatsApp tax as protests rage - BBC News",
+      "description": "The government announced, then scrapped, a tax on app-based calls amid angry protests over the economy.",
+      "url": "https://www.bbc.com/news/world-middle-east-50095448",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1EEE/production/_109281970_mediaitem109281969.jpg",
+      "publishedAt": "2019-10-18T09:34:27Z",
+      "content": "Image copyrightReutersImage caption\r\n Thousands have taken to the streets over the handling of an economic crisis\r\nThe Lebanese government has backtracked on plans to tax WhatsApp calls as protests rage over the government's handling of an economic crisis.\r\nI… [+1886 chars]"
+    },
+    {
+      "source": {
+        "id": "cnbc",
+        "name": "CNBC"
+      },
+      "author": "Sam Meredith",
+      "title": "Boris Johnson's Brexit deal faces narrow defeat on Saturday, analysts warn - CNBC",
+      "description": "British Prime Minister Boris Johnson has insisted he is \"very confident\" the House of Commons will support his Brexit deal on Saturday.",
+      "url": "https://www.cnbc.com/2019/10/18/brexit-boris-johnsons-deal-faces-narrow-defeat-on-saturday.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106189212-1571390492018gettyimages-1176377111.jpeg?v=1571390541",
+      "publishedAt": "2019-10-18T09:09:29Z",
+      "content": "British Prime Minister Boris Johnson has insisted that he is \"very confident\" the House of Commons will support his Brexit deal on Saturday, in what is widely expected to be a historic knife-edge vote.\r\nThe former London mayor secured a draft Brexit deal with… [+3797 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": null,
+      "title": "Fighting Continues in Syria, Hours After Cease-Fire Deal - The New York Times",
+      "description": "A day after Vice President Mike Pence announced a pause in the battle between Turkish and Kurdish forces, shelling continued on Friday, raising questions about the deal’s feasibility.",
+      "url": "https://www.nytimes.com/2019/10/18/world/middleeast/syria-ceasefire-kurds-turkey.html",
+      "urlToImage": "https://static01.nyt.com/images/2019/10/18/world/18Syria1/18Syria1-facebookJumbo.jpg",
+      "publishedAt": "2019-10-18T09:04:00Z",
+      "content": "Asked about the cease-fire agreement, Mr. Netanyahu said only, We hope things will turn out for the best. \r\nSyrian Kurdish fighters promised on Thursday night to adhere to the cease-fire and to withdraw from an area of their territory that the Turkish militar… [+1103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Npr.org"
+      },
+      "author": "Scott Neuman",
+      "title": "Massive Gun Battle Erupts In Mexico Over Son Of Drug Kingpin 'El Chapo' - NPR",
+      "description": "Security forces came under attack and were forced to withdraw after they sought to arrest Ovidio Guzmán López, who is thought to control the Sinaloa cartel since his father's arrest in 2014.",
+      "url": "https://www.npr.org/2019/10/18/771216750/massive-gun-battle-erupts-in-mexico-over-son-of-drug-kingpin-el-chapo",
+      "urlToImage": "https://media.npr.org/assets/img/2019/10/18/ap_19291143145128_wide-67bdf6525572457e17bda4e813b87e6c3771230e.jpg?s=1400",
+      "publishedAt": "2019-10-18T09:04:00Z",
+      "content": "Smoke from burning cars rises in Culiacán, Mexico, on Thursday, after an intense gunfight between security forces and gunmen linked to the Sinaloa drug cartel.\r\nHector Parra/AP\r\nHeavily armed gunmen went on a shooting rampage through the city of Culiacán, the… [+2383 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": null,
+      "title": "Teen suicide rates are rising, despite efforts at prevention - Axios",
+      "description": "Suicide rates are growing faster than ever before.",
+      "url": "https://www.axios.com/why-were-failing-to-stop-teen-suicide-0b1b4e63-a4c0-48d2-b76a-ec55651bd050.html",
+      "urlToImage": "https://images.axios.com/G2aZwJNBhs8C7ZGxb2-_S2hC1eE=/0x0:2400x1350/1920x1080/2019/10/17/1571341419794.png",
+      "publishedAt": "2019-10-18T09:00:00Z",
+      "content": "Teachers in some school districts are scouring Google for mental health advice because they don't know how to help their students, Sam Brinton, head of advocacy and government affairs for the Trevor Project, tells Axios. \r\nIntervention and prevention plans ar… [+1056 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nypost.com"
+      },
+      "author": "Ted Holmlund",
+      "title": "Joe Girardi delivers emotional tribute to Yankees' CC Sabathia - New York Post ",
+      "description": "The way CC Sabathia’s career very likely ended didn’t just tear up his Yankees teammates, it deeply affected Joe Girardi, his former manager. “That was not the way I wanted to see it end for him,” …",
+      "url": "https://nypost.com/2019/10/18/joe-girardi-delivers-emotional-tribute-to-yankees-cc-sabathia/",
+      "urlToImage": "https://thenypost.files.wordpress.com/2019/10/girardi.sabathia.jpg?quality=90&strip=all&w=1200",
+      "publishedAt": "2019-10-18T08:52:00Z",
+      "content": "The way CC Sabathias career very likely ended didnt just tear up his Yankees teammates, it deeply affected Joe Girardi, his former manager.\r\nThat was not the way I wanted to see it end for him, Girardi, an analyst on MLB Network, said after the Yankees 8-3 lo… [+1100 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Androidauthority.com"
+      },
+      "author": null,
+      "title": "Android 10 gesture navigation now works with third-party launchers on Pixel 4 - Android Authority",
+      "description": "The fix is only available for the Pixel 4 series right now, but here's hoping it lands on other devices soon.",
+      "url": "https://www.androidauthority.com/android-10-gesture-navigation-launchers-1043154/",
+      "urlToImage": "https://cdn57.androidauthority.net/wp-content/uploads/2019/09/Android-10-Gesture-Nav-Bar-920x470.jpg",
+      "publishedAt": "2019-10-18T08:51:36Z",
+      "content": "One of the most annoying things about Android 10 was that its new gesture navigation system wasn’t supported in third-party launchers. That’s a big problem, because it effectively meant that you were stuck with whatever launcher your manufacturer installed if… [+909 chars]"
+    },
+    {
+      "source": {
+        "id": "nbc-news",
+        "name": "NBC News"
+      },
+      "author": "Phil Helsel, Associated Press",
+      "title": "California woman who livestreamed deadly DUI crash arrested weeks after prison release - NBCNews.com",
+      "description": "Obdulia Sánchez, who was paroled after spending two years in jail for a drunken-driving crash in which she was livestreaming was arrested again in California after allegedly fleeing a traffic stop.",
+      "url": "https://www.nbcnews.com/news/us-news/california-woman-who-livestreamed-deadly-dui-crash-arrested-weeks-after-n1068491",
+      "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2019_42/3058201/191018-obdulia-sanchez-mc-830-cover_a35866ce77b268351bc5bc8cbac67781.nbcnews-fp-1200-630.JPG",
+      "publishedAt": "2019-10-18T07:58:00Z",
+      "content": "A California woman who served time in prison after she killed her sister in a drunken-driving crash that she livestreamed has been arrested again just weeks after her release.\r\nObdulia Sanchez, recently released on parole after serving a sentence for driving … [+2399 chars]"
+    },
+    {
+      "source": {
+        "id": "the-new-york-times",
+        "name": "The New York Times"
+      },
+      "author": null,
+      "title": "Hong Kong Court Rules Against Same-Sex Unions - The New York Times",
+      "description": "The decision is a setback to efforts to expand recognition of such partnerships in Asia, after Taiwan’s recognition of gay marriage stirred hopes among many.",
+      "url": "https://www.nytimes.com/2019/10/18/world/asia/hong-kong-same-sex-unions.html",
+      "urlToImage": "https://static01.nyt.com/images/2019/10/18/world/18hk-samesex/18hk-samesex-facebookJumbo.jpg",
+      "publishedAt": "2019-10-18T07:28:00Z",
+      "content": "The judicial review followed a petition filed inJune 2018 by a woman, referred to as MK in court documents, who wanted to marry or enter into a legally recognized civil partnership with her partner in Hong Kong, where both were permanent residents. She argued… [+1242 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Wccftech.com"
+      },
+      "author": "Alessio Palumbo",
+      "title": "NVIDIA SHIELD TV Pro Leaked on Amazon; Out October 28th for $199, Featuring Tegra X1+ (Up to 25% Faster) - Wccftech",
+      "description": "The NVIDIA SHIELD TV Pro is indeed coming as leaked by Amazon yesterday. Rumors began pointing in that direction about three months ago and as it turns out, they were true. 9to5Google spotted the listing and was able to catch all of the information before the…",
+      "url": "https://wccftech.com/nvidia-shield-tv-pro-leaked-on-amazon-out-october-28th-for-199-featuring-tegra-x1-up-to-25-faster/",
+      "urlToImage": "https://cdn.wccftech.com/wp-content/uploads/2019/10/nvidia_shield_tv_pro_1.jpg",
+      "publishedAt": "2019-10-18T06:39:00Z",
+      "content": "9to5Google spotted the listing and was able to catch all of the information before the page was taken down. The NVIDIA SHIELD TV Pro will feature a Tegra X1+ processor that's said to be up to 25% faster than the previous Tegra X1, support for Dolby Vision and… [+2695 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": null,
+      "title": "Asian shares slump after weak China GDP, pound retreats - Investing.com",
+      "description": "Shares slip on weak China growth, dollar suffers weekly mauling",
+      "url": "https://www.investing.com/news/stock-market-news/asian-shares-slump-after-weak-china-gdp-pound-retreats-1998723",
+      "urlToImage": "https://i-invdn-com.akamaized.net/trkd-images/LYNXMPEF9H0T9_L.jpg",
+      "publishedAt": "2019-10-18T06:32:00Z",
+      "content": "By Marc Jones\r\nLONDON (Reuters) - World stocks slipped after China posted its weakest growth rate in nearly three decades on Friday, while the dollar was set for its worst week in almost four months having been pummeled by pound and euro Brexit rallies.\r\nChin… [+3779 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phonearena.com"
+      },
+      "author": "Joshua Swingle",
+      "title": "Massive OnePlus 8 Pro leak reveals quad-camera setup, new display - PhoneArena",
+      "description": "The OnePlus 8 Pro has leaked out entirely in a new set of renders. It features a punch hole curved edge display and a quadruple-camera setup but skip the 3.5mm headphone jack.",
+      "url": "https://www.phonearena.com/news/OnePlus-8-Pro-design-renders-leak_id119767",
+      "urlToImage": "https://i-cdn.phonearena.com/images/article/119767-two_lead/Massive-OnePlus-8-Pro-leak-reveals-quad-camera-setup-new-display.jpg",
+      "publishedAt": "2019-10-18T06:30:00Z",
+      "content": "A discussion is a place, where people can voice their opinion, no matter if it is positive, neutral or negative. However, when posting, one must stay true to the topic, and not just share some random thoughts, which are not directly related to the matter.\r\nTh… [+691 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Daniel Kolitz",
+      "title": "What's Going to Happen With Bitcoin?",
+      "description": "Since its inception in 2009, Bitcoin has made and ruined fortunes, helped sell fentanyl and books about cryptocurrency, withstood literally millions of jokes and just as many predictions of imminent collapse, and—through a process opaque to most people, mysel…",
+      "url": "https://gizmodo.com/whats-going-to-happen-with-bitcoin-1837940506",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--yDtXY-I4--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/pj5jc9ntilzdb4dfnivl.png",
+      "publishedAt": "2019-10-07T12:00:00Z",
+      "content": "Since its inception in 2009, Bitcoin has made and ruined fortunes, helped sell fentanyl and books about cryptocurrency, withstood literally millions of jokes and just as many predictions of imminent collapse, andthrough a process opaque to most people, myself… [+10529 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Russell Brandom",
+      "title": "A disgraced Tor developer has resurfaced to testify against one of his accusers",
+      "description": "Bitcoin developer Peter Todd has filed a defamation claim against Isis Lovecruft who has accused him of rape and harassment. The case has resulted in a surprising testimony from disgraced Tor developer Jacob Appelbaum.",
+      "url": "https://www.theverge.com/2019/10/2/20895270/jacob-appelbaum-peter-todd-rape-allegations-defamation-bitcoin-tor",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/QjYjrRLVMwCgjZSfE7JjC7URQns=/0x300:3733x2254/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19253276/1040241490.jpg.jpg",
+      "publishedAt": "2019-10-02T17:40:33Z",
+      "content": "New allegations against a bitcoin developer spurred a deposition from Jacob Appelbaum\r\nPhoto by Ingo Wagner / Getty Images\r\nIn the summer of 2016, a flood of abuse allegations came out against celebrity Tor developer Jacob Appelbaum, a shocking blow to one of… [+6852 chars]"
+    },
+    {
+      "source": {
+        "id": "mashable",
+        "name": "Mashable"
+      },
+      "author": "Jack Morse",
+      "title": "A massive dark web child porn site was brought down by tracing bitcoin",
+      "description": "Say it with me: Bitcoin is not anonymous. Three hundred and thirty-seven alleged members of a massive dark web child pornography website were reminded of that fact last year when they were arrested by a global coalition of law enforcement. According to a Depa…",
+      "url": "https://mashable.com/article/dark-web-child-pornography-ring-busted-bitcoin-analysis/",
+      "urlToImage": "https://mondrian.mashable.com/2019%252F10%252F16%252F1e%252Fd554f31ace45406ba4d0bc80355b353e.27607.jpg%252F1200x630.jpg?signature=uOjNxmPwAgA8Zc37hD3qgotaz60=",
+      "publishedAt": "2019-10-16T22:25:36Z",
+      "content": "Say it with me: Bitcoin is not anonymous. \r\nThree hundred and thirty-seven alleged members of a massive dark web child pornography website were reminded of that fact last year when they were arrested by a global coalition of law enforcement. According to a De… [+2993 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Huge Child Porn Ring Busted as Authorities Cite Ability to Crack Bitcoin Privacy",
+      "description": "Federal authorities in the U.S. have unsealed charges against the South Korean operator of a child porn ring that’s been billed as the world’s “largest dark web child porn marketplace.” The child porn site, known as Welcome to Video, charged some users in Bit…",
+      "url": "https://gizmodo.com/huge-child-porn-ring-busted-as-authorities-cite-ability-1839098730",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/sdtetfaaydg1zjw9fb48.jpg",
+      "publishedAt": "2019-10-16T16:45:00Z",
+      "content": "Federal authorities in the U.S. have unsealed charges against the South Korean operator of a child porn ring thats been billed as the worlds largest dark web child porn marketplace. The child porn site, known as Welcome to Video, charged some users in Bitcoin… [+2092 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Facebook's Libra currency will get half its backing from the US dollar",
+      "description": "Facebook was quick to promise that its Libra cryptocurrency would have the stability of real-world money behind it, but whose money will dominate? It's now particularly clear. Facebook sent a letter to German politician Fabio De Masi explaining that the US do…",
+      "url": "https://www.engadget.com/2019/09/22/facebook-libra-currency-backing/",
+      "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D5000%252C3332%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1067%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-09%252Fa83620e0-d0d2-11e9-bffe-e6277dac35e4%26client%3Da1acac3e1b3290917d92%26signature%3D6bdbc38750df299796016091df5e130ecfe24cb2&client=amp-blogside-v2&signature=35c0eea55c31f00b307f6bb2dcb168ab2fec3432",
+      "publishedAt": "2019-09-23T00:38:00Z",
+      "content": "This isn't surprising given Facebook's home turf and the usual strength of the US dollar. The absence of certain currencies might work in Libra's favor, too. The absence of China's yuan could appease American politicians scrutinizing the currency by assuaging… [+614 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘Bakkt launches physically settled Bitcoin futures (finally)’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Aristotle used to say: Time to learn some …",
+      "url": "https://thenextweb.com/hardfork/2019/09/23/satoshi-nakaboto-bakkt-launches-physically-settled-bitcoin-futures-finally/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-09-23T09:23:48Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Aristotle used to say: Time to learn s… [+3116 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "msmash",
+      "title": "NYSE Owner Launches Long-Awaited Bitcoin Futures",
+      "description": "The owner of the New York Stock Exchange launched its long-delayed market for bitcoin futures Sunday, a high-profile bet that consumers, businesses and Wall Street will embrace cryptocurrencies. From a report: Trading in the new bitcoin futures began just aft…",
+      "url": "https://slashdot.org/story/19/09/23/1947205/nyse-owner-launches-long-awaited-bitcoin-futures",
+      "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+      "publishedAt": "2019-09-23T20:05:00Z",
+      "content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘VanEck and SolidX withdraw ETF proposal again — lol’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Rousseau used to say: Let’s add the milk o…",
+      "url": "https://thenextweb.com/hardfork/2019/09/18/satoshi-nakaboto-vaneck-and-solidx-withdraw-etf-proposal-again-lol/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-09-18T08:44:54Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Rousseau used to say: Lets add the milk of… [+2925 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘Rapidly growing number of addresses hold more than 1000 BTC’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Rousseau used to say: Let’s get this bread…",
+      "url": "https://thenextweb.com/hardfork/2019/10/12/satoshi-nakaboto-rapidly-growing-number-of-addresses-hold-more-than-1000-btc/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-10-12T10:25:57Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Rousseau used to say: Lets get this br… [+2873 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘Daily total Ethereum transaction fees surpass Bitcoin’s’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Bentham used to say: Yolo! Bitcoin Price W…",
+      "url": "https://thenextweb.com/hardfork/2019/09/19/satoshi-nakaboto-daily-total-ethereum-transaction-fees-surpass-bitcoins/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-09-19T08:12:23Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Bentham used to say: Yolo!\r\nBitcoin Pr… [+2814 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘Bitcoin network shifted the equivalent of 412 tons of gold in one day’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Nightingale used to say: I got the horses …",
+      "url": "https://thenextweb.com/hardfork/2019/09/20/satoshi-nakaboto-bitcoin-network-shifted-the-equivalent-of-412-tons-of-gold-in-one-day/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-09-20T09:44:04Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Nightingale used to say: I got the hor… [+3111 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘Bitcoin market cap rivals HSBC, Europe’s largest bank’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Baudriallard used to say: Bob’s your uncle…",
+      "url": "https://thenextweb.com/hardfork/2019/10/09/satoshi-nakaboto-bitcoin-market-cap-rivals-hsbc-europes-largest-bank/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-10-09T09:44:58Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Baudriallard used to say: Bobs your un… [+2981 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘Every $1 of Bitcoin mined in the US responsible for $0,49 in human and environmental damages’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Satoshi Nakamoto used to say: The long and…",
+      "url": "https://thenextweb.com/hardfork/2019/10/05/satoshi-nakaboto-every-1-of-bitcoin-mined-in-the-us-responsible-for-049-in-human-and-environmental-damages/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-10-05T09:50:33Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Satoshi Nakamoto used to say: The long… [+3081 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘CNBC anchor describes Bitcoin as antique furniture, Libra as Restoration Hardware’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Aristotle used to say: Your imagination is…",
+      "url": "https://thenextweb.com/hardfork/2019/10/15/satoshi-nakaboto-cnbc-anchor-describes-bitcoin-as-antique-furniture-libra-as-restoration-hardware/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-10-15T09:08:47Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Aristotle used to say: Your imaginatio… [+2947 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘Largest derivatives exchange to launch Bitcoin options in Q1 2020’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Nightingale used to say: Time is money! Bi…",
+      "url": "https://thenextweb.com/hardfork/2019/09/21/satoshi-nakaboto-largest-derivatives-exchange-to-launch-bitcoin-options-in-q1-2020/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-09-21T09:13:48Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Nightingale used to say: Time is money… [+2936 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘$10M Chinese Bitcoin farm burns, network gets clogged’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Habermass used to say: Yolo! Bitcoin Price…",
+      "url": "https://thenextweb.com/hardfork/2019/10/01/satoshi-nakaboto-10m-chinese-bitcoin-farm-burns-network-gets-clogged/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-10-01T08:25:21Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Habermass used to say: Yolo!\r\nBitcoin … [+2675 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘Bitcoin volume hits all-time high in Hong Kong’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Baudriallard used to say: Let’s get this b…",
+      "url": "https://thenextweb.com/hardfork/2019/10/08/satoshi-nakaboto-bitcoin-volume-hits-all-time-high-in-hong-kong/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-10-08T10:09:26Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Baudriallard used to say: Lets get thi… [+2975 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘SEC rejects another Bitcoin ETF proposal’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Nietzsche used to say: Time is money! Bitc…",
+      "url": "https://thenextweb.com/hardfork/2019/10/10/satoshi-nakaboto-sec-rejects-another-bitcoin-etf-proposal/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-10-10T09:23:23Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Nietzsche used to say: Time is money!\r… [+2895 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘Bitcoin mining consumes as much energy as the entire country of Austria’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As de Beauvoir used to say: Buy low, sell hig…",
+      "url": "https://thenextweb.com/hardfork/2019/10/14/satoshi-nakaboto-bitcoin-mining-consumes-as-much-energy-as-the-entire-country-of-austria/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-10-14T08:35:10Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As de Beauvoir used to say: Buy low, sell… [+2883 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Satoshi Nakaboto",
+      "title": "Satoshi Nakaboto: ‘Bitcoin dips below $8K again, fuelling bears’",
+      "description": "Our robot colleague Satoshi Nakaboto writes about Bitcoin every fucking day. Welcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you what’s been going on with Bitcoin in the past 24 hours. As Baudriallard used to say: Time is money! B…",
+      "url": "https://thenextweb.com/hardfork/2019/10/17/satoshi-nakaboto-bitcoin-dips-below-8k-again-fuelling-bears/",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/hardfork?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2019%2F08%2Fbitcoin_today-header_bitcoin_today.jpg&signature=30221b6a68049cc6bc3b58f3ddb38864",
+      "publishedAt": "2019-10-17T09:02:37Z",
+      "content": "Our robot colleague Satoshi Nakaboto writes about Bitcoin BTC every fucking day.\r\nWelcome to another edition of Bitcoin Today, where I, Satoshi Nakaboto, tell you whats been going on with Bitcoin in the past 24 hours. As Baudriallard used to say: Time is mone… [+3352 chars]"
+    }
+  ]
+}

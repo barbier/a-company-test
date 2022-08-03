@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Articles List rendering options It should match snapshot 1`] = `
+Array [
+  <header
+    className="css-1gw4kos"
+  >
+    <h1
+      className="css-17f22lv"
+    >
+      Newspaper
+    </h1>
+  </header>,
+  <main
+    className="css-8u1dut"
+  >
+    <aside
+      className="css-6p15e3"
+    >
+      <p>
+        Failed to fetch data
+      </p>
+    </aside>
+  </main>,
+  <footer
+    className="css-1g61t9i"
+  >
+    <p
+      className="css-1e2fy0l"
+    >
+      Created by: Barbier
+    </p>
+  </footer>,
+]
+`;

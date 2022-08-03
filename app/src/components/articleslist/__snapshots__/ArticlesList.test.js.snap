@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test Articles List rendering options It should match snapshot 1`] = `
+<ul
+  className="css-66iazq"
+>
+  <li
+    className=" css-17vaqjz"
+  >
+    <h2
+      className="css-ybopvn"
+    >
+      Coca-Cola stock jumps as strong sales of Coke Zero Sugar continue to drive revenue growth - CNBC
+    </h2>
+    <p
+      className="css-jd954d"
+    >
+      Coca-Cola on Friday reported quarterly earnings that met analysts' expectations.
+    </p>
+    <button
+      className="css-oxpfok"
+      onClick={[Function]}
+    >
+      Read more
+    </button>
+  </li>
+</ul>
+`;
