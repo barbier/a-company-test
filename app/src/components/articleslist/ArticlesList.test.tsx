@@ -1,13 +1,15 @@
 import { render, screen } from '@testing-library/react'
 import renderer from 'react-test-renderer'
-import { ArticleContext } from '../../contexts/context'
+import { IArticle } from '../../interfaces/Article'
 import ArticlesList from './ArticlesList'
+
+const { ArticleContext } = require('../../contexts/context')
 
 describe("Test Articles List rendering options", () => {
   test("It should match snapshot", () => {
     const selectedArticle = {}
     const setSelectedArticle = () => {}
-    const articles = [
+    const articles: IArticle[] = [
       {
         "source": {
           "id": "cnbc",
@@ -46,7 +48,7 @@ describe("Test Articles List rendering options", () => {
       "content": "Coca-Cola on Friday reported quarterly revenue that topped analysts' expectations as more customers are drawn in by healthier options, like Zero Sugar soda and smaller size cans. \r\nShares of the company jumped 1.6% in premarket trading.\r\n\"Our performance give… [+1887 chars]"
     }
     const setSelectedArticle = () => {}
-    const articles = [
+    const articles: IArticle[] = [
       {
         "source": {
           "id": "cnbc",
@@ -75,7 +77,7 @@ describe("Test Articles List rendering options", () => {
   test("It should return an error message when there's no data", () => {
     const selectedArticle = {}
     const setSelectedArticle = () => {}
-    const articles = []
+    const articles: IArticle[] = []
 
     render(<ArticlesList articles={articles} />)
     const errorText = screen.getByText('Failed to fetch data')

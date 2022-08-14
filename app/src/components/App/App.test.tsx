@@ -1,7 +1,7 @@
 import renderer from 'react-test-renderer'
-import { ArticleContext } from '../../contexts/context'
 import App from './App'
 
+const { ArticleContext } = require('../../contexts/context')
 
 describe("Test Articles List rendering options", () => {
   test("It should match snapshot", () => {

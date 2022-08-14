@@ -1,14 +1,16 @@
 import { useContext, useState } from 'react'
-import { ArticleContext } from '../../contexts/context'
 import {
   ListItem,
   ListItemText,
   ListItemTitle,
   ListItemButton,
 } from '../../styles/styles'
+import { IArticle } from '../../interfaces/Article'
 
-function ArticlesListItem(props) {
-  const { article } = props
+const { ArticleContext } = require('../../contexts/context')
+
+const ArticlesListItem: React.FC<{article: IArticle}> = ({article}) => {
+
   const [read, setRead] = useState(false)
   // eslint-disable-next-line
   const [selectedArticle, setSelectedArticle] = useContext(ArticleContext)
