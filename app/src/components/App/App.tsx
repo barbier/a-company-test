@@ -2,9 +2,9 @@ import { useEffect, useState } from 'react'
 import ArticleContentWrapper from '../articlecontent/ArticleContent'
 import { AsideContent, Footer, FooterText, Header, HeaderTitle, Main } from '../../styles/styles'
 import ArticlesList from '../articleslist/ArticlesList'
-import { ArticleContext } from '../../contexts/context'
+const { ArticleContext } = require('../../contexts/context')
 
-function App() {
+const App: React.FC = () => {
   const [articles, setArticles] = useState([])
   const [selectedArticle, setSelectedArticle] = useState({})
   

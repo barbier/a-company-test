@@ -1,9 +1,21 @@
 import { useContext } from 'react'
-import { ArticleContext } from '../../contexts/context'
-import { Content, ContentAuthor, ContentHeader, ContentTitle, ContentPublishedDate, ContentImage, ContentText, ContentFooter, ContentSource } from '../../styles/styles'
 import { convertToDate } from '../../utils/util'
 
-function ArticleContent() {
+const { ArticleContext } = require('../../contexts/context')
+
+const {
+  Content,
+  ContentAuthor,
+  ContentHeader,
+  ContentTitle,
+  ContentPublishedDate,
+  ContentImage,
+  ContentText,
+  ContentFooter,
+  ContentSource
+} = require('../../styles/styles')
+
+const ArticleContent: React.FC = () => {
   // eslint-disable-next-line
   const [selectedArticle, setSelectedArticle] = useContext(ArticleContext)
 

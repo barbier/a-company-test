@@ -1,14 +1,15 @@
 import { render, fireEvent } from '@testing-library/react'
 import renderer from 'react-test-renderer'
-import { ArticleContext } from '../../contexts/context'
+const { ArticleContext } = require('../../contexts/context')
 import ArticlesListItem from './ArticlesListItem'
+import { IArticle } from '../../interfaces/Article'
 
 describe("Test Articles List rendering options", () => {
-  let selectedArticle
-  let setSelectedArticle
-  let article
+  let selectedArticle: IArticle | null
+  let setSelectedArticle: any
+  let article: IArticle
   beforeEach(() => {
-    selectedArticle = {}
+    selectedArticle = null
     setSelectedArticle = () => {}
     article = {
       "source": {
@@ -53,7 +54,7 @@ describe("Test Articles List rendering options", () => {
         <ArticlesListItem article={article} />
       </ArticleContext.Provider>
     )
-    const button = container.querySelector('button')
+    const button = container.querySelector('button')!
 
     fireEvent.click(button)
 
