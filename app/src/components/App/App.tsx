@@ -1,29 +1,33 @@
-import { useEffect, useState } from 'react'
-import ArticleContentWrapper from '../articlecontent/ArticleContent'
-import { AsideContent, Footer, FooterText, Header, HeaderTitle, Main } from '../../styles/styles'
-import ArticlesList from '../articleslist/ArticlesList'
-const { ArticleContext } = require('../../contexts/context')
+import React, { useEffect, useState } from "react";
+import ArticleContentWrapper from "../articlecontent/ArticleContent";
+import {
+  AsideContent,
+  Footer,
+  FooterText,
+  Header,
+  HeaderTitle,
+  Main,
+} from "../../styles/styles";
+import ArticlesList from "../articleslist/ArticlesList";
+import { ArticleContextProvider } from "../../contexts/context";
 
 const App: React.FC = () => {
-  const [articles, setArticles] = useState([])
-  const [selectedArticle, setSelectedArticle] = useState({})
-  
-  useEffect(() => {
-    const fetchData = async () => {
-      const result = await fetch('http://localhost:8000/v1/news?q=')
-      const resultJson = await result.json()
-      setArticles(resultJson.articles)
-    }
+  const [articles, setArticles] = useState([]);
 
-    fetchData()
-  }, [])
+  useEffect(() => {
+    const fetchData = async (): Promise<void> => {
+      const result = await fetch("http://localhost:8000/v1/news?q=");
+      const resultJson = await result.json();
+      setArticles(resultJson.articles);
+    };
+
+    void fetchData();
+  }, []);
 
   return (
-    <ArticleContext.Provider value={[selectedArticle, setSelectedArticle]}>
+    <ArticleContextProvider>
       <Header>
-        <HeaderTitle>
-          Newspaper
-        </HeaderTitle>
+        <HeaderTitle>Newspaper</HeaderTitle>
       </Header>
       <Main>
         <AsideContent>
@@ -32,12 +36,10 @@ const App: React.FC = () => {
         <ArticleContentWrapper />
       </Main>
       <Footer>
-        <FooterText>
-          Created by: Barbier
-        </FooterText>
+        <FooterText>Created by: Barbier</FooterText>
       </Footer>
-    </ArticleContext.Provider>
-  )
-}
+    </ArticleContextProvider>
+  );
+};
 
-export default App
+export default App;

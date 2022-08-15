@@ -6,7 +6,7 @@ Array [
     className="css-1gw4kos"
   >
     <h1
-      className="css-17f22lv"
+      className="css-1ilhfkm"
     >
       Newspaper
     </h1>
@@ -21,12 +21,51 @@ Array [
         Failed to fetch data
       </p>
     </aside>
+    <article
+      className="css-6p15e3"
+    >
+      <header
+        className="css-rg0tw2"
+      >
+        <h1
+          className="css-q28qg0"
+        />
+        <h2
+          className="css-q28qg0"
+        >
+           Author: 
+          Unknown
+           
+        </h2>
+        <small
+          className="css-0"
+        >
+          Published at: 
+          Invalid Date
+        </small>
+      </header>
+      <img
+        className="css-1t0xj7x"
+      />
+      <p
+        className="css-1k46fjq"
+      />
+      <footer
+        className="css-0"
+      >
+        Source:
+        <a
+          className="css-hnw5at"
+          target="_blank"
+        />
+      </footer>
+    </article>
   </main>,
   <footer
-    className="css-1g61t9i"
+    className="css-1npnmb4"
   >
     <p
-      className="css-1e2fy0l"
+      className="css-0"
     >
       Created by: Barbier
     </p>

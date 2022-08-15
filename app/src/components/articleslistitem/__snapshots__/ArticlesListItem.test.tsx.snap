@@ -2,10 +2,10 @@
 
 exports[`Test Articles List rendering options It should match snapshot 1`] = `
 <li
-  className=" css-17vaqjz"
+  className=" css-m4hkc4"
 >
   <h2
-    className="css-ybopvn"
+    className="css-q28qg0"
   >
     Coca-Cola stock jumps as strong sales of Coke Zero Sugar continue to drive revenue growth - CNBC
   </h2>

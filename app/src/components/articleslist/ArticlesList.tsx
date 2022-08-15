@@ -1,8 +1,9 @@
-import { List } from "../../styles/styles"
-import ArticlesListItem from '../articleslistitem/ArticlesListItem'
-import { IArticle } from '../../interfaces/Article'
+import React from "react";
+import { List } from "../../styles/styles";
+import ArticlesListItem from "../articleslistitem/ArticlesListItem";
+import { IArticle } from "../../interfaces/Article";
 
-const ArticlesList: React.FC<{articles: IArticle[]}> = ({articles}) => {
+const ArticlesList: React.FC<{ articles: IArticle[] }> = ({ articles }) => {
   if (articles.length > 0) {
     return (
       <List>
@@ -10,9 +11,9 @@ const ArticlesList: React.FC<{articles: IArticle[]}> = ({articles}) => {
           <ArticlesListItem article={article} key={index} />
         ))}
       </List>
-    )
+    );
   }
-  return <p>Failed to fetch data</p>
-}
+  return <p>Failed to fetch data</p>;
+};
 
-export default ArticlesList
+export default ArticlesList;

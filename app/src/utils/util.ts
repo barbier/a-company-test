@@ -1,3 +1,3 @@
-export const convertToDate = (stringDate: string) => {
-  return new Date(stringDate).toLocaleDateString()
-}
+export const convertToDate = (stringDate: string): string => {
+  return new Date(stringDate).toLocaleDateString();
+};

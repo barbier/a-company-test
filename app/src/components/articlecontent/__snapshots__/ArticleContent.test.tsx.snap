@@ -5,48 +5,39 @@ exports[`Test Article Content rendering options It should match snapshot 1`] = `
   className="css-6p15e3"
 >
   <header
-    className="css-1etpri8"
+    className="css-rg0tw2"
   >
     <h1
-      className="css-ybopvn"
-    >
-      Coca-Cola stock jumps as strong sales of Coke Zero Sugar continue to drive revenue growth - CNBC
-    </h1>
+      className="css-q28qg0"
+    />
     <h2
-      className="css-ybopvn"
+      className="css-q28qg0"
     >
-      Author:
-      Amelia Lucas
+       Author: 
+      Unknown
+       
     </h2>
     <small
-      className="css-1e2fy0l"
+      className="css-0"
     >
       Published at: 
-      10/18/2019
+      Invalid Date
     </small>
   </header>
   <img
-    className="css-1lb5oxm"
-    src="https://image.cnbcfm.com/api/v1/image/105375236-1533317591071rtx6drjw.jpg?v=1571332846"
+    className="css-1t0xj7x"
   />
   <p
-    className="css-1rcv8gm"
-  >
-    Coca-Cola on Friday reported quarterly revenue that topped analysts' expectations as more customers are drawn in by healthier options, like Zero Sugar soda and smaller size cans. 
-Shares of the company jumped 1.6% in premarket trading.
-"Our performance give… [+1887 chars]
-  </p>
+    className="css-1k46fjq"
+  />
   <footer
-    className="css-1oteowz"
+    className="css-0"
   >
     Source:
     <a
-      className="css-1ors561"
-      href="https://www.cnbc.com/2019/10/18/coca-cola-ko-earnings-q3-2019.html"
+      className="css-hnw5at"
       target="_blank"
-    >
-      CNBC
-    </a>
+    />
   </footer>
 </article>
 `;

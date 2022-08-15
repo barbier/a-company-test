@@ -23,7 +23,8 @@
     "prettier"
   ],
   "rules": {
-    "import/no-unresolved": "error"
+    "import/no-unresolved": "error",
+    "react/prop-types": 0
   },
   "settings": {
     "import/resolver": {

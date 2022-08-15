@@ -1,34 +1,34 @@
-import { useContext, useState } from 'react'
+import React, { useState } from "react";
 import {
   ListItem,
   ListItemText,
   ListItemTitle,
   ListItemButton,
-} from '../../styles/styles'
-import { IArticle } from '../../interfaces/Article'
+} from "../../styles/styles";
+import { IArticle } from "../../interfaces/Article";
 
-const { ArticleContext } = require('../../contexts/context')
+import { useSetSelectedArticle } from "../../contexts/context";
 
-const ArticlesListItem: React.FC<{article: IArticle}> = ({article}) => {
+const ArticlesListItem: React.FC<{ article: IArticle }> = ({
+  article,
+}: any) => {
+  const [read, setRead] = useState(false);
+  const handleSetSelectedArticle = useSetSelectedArticle;
 
-  const [read, setRead] = useState(false)
-  // eslint-disable-next-line
-  const [selectedArticle, setSelectedArticle] = useContext(ArticleContext)
+  const handleReadMoreClick = (article: any): void => {
+    setRead(true);
+    handleSetSelectedArticle(article);
+  };
 
-  const handleReadMoreClick = () => {
-    setRead(true)
-    setSelectedArticle(article)
-  }
-  
   return (
-    <ListItem className={read ? 'read' : ''}>
+    <ListItem className={read ? "read" : ""}>
       <ListItemTitle>{article.title}</ListItemTitle>
       <ListItemText>{article.description}</ListItemText>
-      <ListItemButton onClick={() => handleReadMoreClick()}>
+      <ListItemButton onClick={() => handleReadMoreClick(article)}>
         Read more
       </ListItemButton>
     </ListItem>
-  )
-}
+  );
+};
 
-export default ArticlesListItem
+export default ArticlesListItem;
